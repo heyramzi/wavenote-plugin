@@ -1,5 +1,6 @@
 {
   "name": "wavenote",
+  "displayName": "Wavenote",
   "description": "Search, read and add to your Wavenote notes, meeting transcripts and tasks from Claude. Your own Mac answers every request.",
   "version": "1.0.0",
   "author": {
