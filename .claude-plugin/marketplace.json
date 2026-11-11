@@ -1,0 +1,17 @@
+{
+  "$schema": "https://code.claude.com/schemas/marketplace.json",
+  "name": "wavenote",
+  "description": "The Wavenote plugin for Claude Code: your notes, meetings and tasks, answered by your own Mac.",
+  "owner": {
+    "name": "UpSys LLC",
+    "email": "hello@getwavenote.com",
+    "url": "https://getwavenote.com"
+  },
+  "plugins": [
+    {
+      "name": "wavenote",
+      "source": "./",
+      "description": "The Wavenote MCP server plus a skill that finds a note before reading it, waits out queued answers, and asks before deleting anything."
+    }
+  ]
+}

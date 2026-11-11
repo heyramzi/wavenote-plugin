@@ -1,0 +1,15 @@
+{
+  "name": "wavenote",
+  "description": "Search, read and add to your Wavenote notes, meeting transcripts and tasks from Claude. Your own Mac answers every request.",
+  "version": "1.0.0",
+  "author": {
+    "name": "UpSys LLC",
+    "email": "hello@getwavenote.com",
+    "url": "https://getwavenote.com"
+  },
+  "homepage": "https://getwavenote.com",
+  "privacyPolicyUrl": "https://getwavenote.com/privacy",
+  "icon": ".claude-plugin/icon.png",
+  "keywords": ["notes", "meeting-notes", "transcripts", "tasks", "dictation", "mac", "mcp"],
+  "license": "MIT"
+}

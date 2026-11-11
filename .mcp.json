@@ -1,0 +1,8 @@
+{
+  "mcpServers": {
+    "wavenote": {
+      "type": "http",
+      "url": "https://getwavenote.com/api/v1/mcp"
+    }
+  }
+}
